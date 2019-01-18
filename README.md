@@ -10,9 +10,6 @@ of the optionGrid of all pieces the chess board.
 
 The play() is the main function and simulates a game of chess. 
 
-Bugs to address: The board isn't displaying properly. Some pieces appear more than once, and other pieces that are still alive on the 
-board are just being written off as Xs. 
-
-Further implementation: Need to implement stalemate function for rooks. As well as a gui using tkinter for user playing chess. 
+Its all text based, however castling has not been implemented for rooks. 
 
 @author Rohan Gupta 
